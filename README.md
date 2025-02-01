@@ -14,7 +14,7 @@
 
 **DESCRIPTION**:
 
-Here’s a structured description for your task:  
+ 
 
 ---
 
