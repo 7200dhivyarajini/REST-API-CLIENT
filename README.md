@@ -67,5 +67,9 @@ A Java program that:
 - Successfully fetches and processes data from a public REST API.  
 - Parses and displays JSON data in a structured format.  
 - Includes proper error handling and logging.  
-- Optionally provides a GUI for enhanced user experience.  
+- Optionally provides a GUI for enhanced user experience.
+
+- **OUTPUT**
+
+- ![Image](https://github.com/user-attachments/assets/77003d42-9c77-4fa4-acb0-d4284b0a7528)  
 
