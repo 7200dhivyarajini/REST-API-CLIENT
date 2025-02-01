@@ -58,9 +58,6 @@ Develop a Java application that consumes a public REST API, retrieves data (e.g.
    - Clean up and optimize the code for efficiency and readability.  
    - Write comments and documentation to explain key components of the application.
 
-   **OUTPUT**:
-
-   ![Image](https://github.com/user-attachments/assets/77003d42-9c77-4fa4-acb0-d4284b0a7528)
 
 #### **Deliverable**  
 A Java program that:  
